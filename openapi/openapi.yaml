@@ -14,9 +14,7 @@ info:
   description:
     $ref: ./info-description.md
 tags:
-  - name: Auth
-    description: Example echo operations.
-  - name: Product
+  - name: echo
     description: Example echo operations.
   - name: Category
     description: Operations about users.
