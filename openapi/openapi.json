@@ -5,7 +5,7 @@
     "contact" : {
       "name" : "API Support"
     },
-    "version" : "2.2.0",
+    "version" : "1.0.0",
     "x-google-endpoints" : [ {
       "name" : "distributor-api.endpoints.prio-distributor-api.cloud.goog",
       "allowCors" : true
